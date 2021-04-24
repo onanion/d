@@ -3,7 +3,7 @@ email: moexik@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Enjoy listening music & free download .mp3 special for ya.
 permalink: ':title/'
-baseurl: "https://moexik.github.io/" # the subpath of your site, e.g. /blog
+baseurl: "https://moexik.github.io" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author settings
