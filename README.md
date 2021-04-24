@@ -1,3 +1,3 @@
 # Moexik
 
-## Beranda
+## Direct Download Link
