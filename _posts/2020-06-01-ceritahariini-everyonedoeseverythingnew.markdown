@@ -1,5 +1,6 @@
 ---
 layout: home-page
+title: Cerita Hari Ini - Everyone Does Everything New
 ---
 
 <center>
