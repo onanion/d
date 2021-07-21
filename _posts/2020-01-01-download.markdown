@@ -1,8 +1,0 @@
----
-layout: home-page
-title: Download
----
-
-<center>
-<a href="https://htmlyrics.github.io/download/download" ><i class="fa fa-caret-down" aria-hidden="true"></i>&nbsp; &nbsp;Download</a>
-</center>
