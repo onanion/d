@@ -8,10 +8,10 @@ Server: 1
 <hr />
 
 <h2>Download</h2>
-<b>Size: </b><br />
-Server: 1<br />
+<b>Size: 360p</b><br />
+Server: <a target="_blank" href="https://streamsb.net/dl?op=download_orig&id=262dfhl3ck3r&mode=n&hash=10146279-36-82-1632891241-66d9eab69b54709a8928c276f7362200">StreamSB</a><br />
 Server: 2<br />
 
-<b>Size: </b><br />
-Server: 1<br />
+<b>Size: 720p</b><br />
+Server: <a href="https://streamsb.net/dl?op=download_orig&id=262dfhl3ck3r&mode=h&hash=10146279-36-82-1632891478-04df4a69ae4492b87d2c2382e82862e7" target="_blank">StreamSB</a><br />
 Server: 2<br />
