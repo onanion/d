@@ -9,9 +9,12 @@ Server: 1
 
 <h2>Download</h2>
 <b>Size: 360p</b><br />
-Server: <a target="_blank" href="https://streamsb.net/dl?op=download_orig&id=262dfhl3ck3r&mode=n&hash=10146279-36-82-1632891241-66d9eab69b54709a8928c276f7362200">StreamSB</a><br />
+Server: <a target="_blank" href="https://streamsb.net/d/262dfhl3ck3r.html">StreamSB</a><br />
 Server: 2<br />
 
 <b>Size: 720p</b><br />
-Server: <a href="https://streamsb.net/dl?op=download_orig&id=262dfhl3ck3r&mode=h&hash=10146279-36-82-1632891478-04df4a69ae4492b87d2c2382e82862e7" target="_blank">StreamSB</a><br />
+Server: <a href="https://streamsb.net/d/262dfhl3ck3r.html" target="_blank">StreamSB</a><br />
 Server: 2<br />
+
+<b>Size: 1080p</b><br />
+Server: <a href="https://javplaya.com/d/4gdlbvkgalev.html" target="_blank">StreamSB</a><br />
