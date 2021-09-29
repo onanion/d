@@ -5,12 +5,12 @@ layout: default
   {% include header.html %}
   <article class="article-page">
     <div class="page-image">
-      <div class="cover-image" style="background: url({{"/assets/img/" | prepend: site.baseurl | append : page.img}}) center no-repeat; background-size: cover;"></div>
+      <div class="cover-image" style="background: url({{"" | prepend: site.baseurl | append : page.img}}) center no-repeat; background-size: cover;"></div>
     </div>
     <div class="wrapper">
       <div class="page-content">
         <div class="header-page">
-          <h1 class="page-title">{{page.title}}</h1>
+          l
         </div>
         {{page.content | markdownify}}
         <div class="page-footer">
