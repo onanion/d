@@ -7,7 +7,7 @@ layout: null
       "title"    : "{{ post.title | escape }}",
       "category" : "{{ post.category }}",
       "tags"     : "{{ post.tags | join: ', ' }}",
-      "url"      : "https://moexik.github.io{{ post.url }}",
+      "url"      : "https://onanion.github.io{{ post.url }}",
       "date"     : "{{ post.date }}"
     } {% unless forloop.last %},{% endunless %}
   {% endfor %}
