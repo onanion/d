@@ -43,18 +43,12 @@ Server-4: <a href="https://dutrag.com/f/dw5pruxr08-3rw7" target="_blank">Fembed<
 <table>
 <tbody>
 <tr>
-<td>Column 1</td>
-<td>Column 2</td>
-<td>Column 3</td>
-<td>Column 4</td>
-<td>Column 5</td>
+<td>Column -1</td>
+<td>Column -2</td>
 </tr>
 <tr>
 <td>Column 1</td>
 <td>Column 2</td>
-<td>Column 3</td>
-<td>Column 4</td>
-<td>Column 5</td>
 </tr>
 </tbody>
 </table>
