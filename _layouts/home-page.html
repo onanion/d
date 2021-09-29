@@ -4,8 +4,9 @@ layout: default
 <div class="flex-container">
   {% include header.html %}
   <div class="content wrapper">
-<br />
-<br />
+<div class="page-image">
+      <div class="cover-image" style="background: url({{"/assets/img/" | prepend: site.baseurl | append : page.img}}) center no-repeat; background-size: cover;"></div>
+    </div>
     {{ content }}
 <br />
 <br />
