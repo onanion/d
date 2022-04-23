@@ -14,7 +14,26 @@ title: Jakarta vs Everybody (2022)
 </tr>
 <tr>
 <td>Server-2</td>
+<td>| <a href="https://dood.so/d/rdq0nkzo3q1c" target="_blank">DoodStream</a></td>
+</tr>
+<tr>
+<td>Server-3</td>
+<td>| <a href="https://uptobox.com/htyheui8a6sn" target="_blank">Uptobox</a></td>
+</tr>
+<tr>
+<td>Server-4</td>
 <td>| <a href="https://acefile.co/f/70972051/hitsmovie21-com-jakarta-vs-everybody-2022-720p-mp4" target="_blank">Acefile</a></td>
 </tr>
 </tbody></table>
 </code></pre>
+
+<br />
+
+Only Download
+
+<a href="https://drive.mrsolusi.com/dl/U0hOOGVBMkVhYTkweVhLZ0cyYnZWZGFRQ0NqQ2dBVmRSQVVRV0hTRUszOD0=" target="_blank">Link1</a>
+
+<br />
+
+
+<a href="https://fastdrive.io/5CAL/NGEFILM21.Jakarta.Vs_Everybody.2022.720p.mp4" target="_blank">Link2</a>
