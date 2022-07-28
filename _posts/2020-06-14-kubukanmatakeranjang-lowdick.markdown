@@ -1,8 +1,11 @@
 ---
-layout: home-page
-title: Ku Bukan Mata Keranjang - Lowdick
+layout: post
+title:  "Education must also train one for quick, resolute and effective thinking."
+author: john
+categories: [ Jekyll, tutorial ]
+image: assets/images/3.jpg
+beforetoc: "Markdown editor is a very powerful thing. In this article I'm going to show you what you can actually do with it, some tricks and tips while editing your post."
+toc: true
 ---
 
-<center>
-<a href="https://drive.google.com/uc?authuser=0&id=18_gdICTIJzSxHMtBxJqmnd42GjfnEwiZ&export=download" ><i class="fa fa-caret-down" aria-hidden="true"></i>&nbsp; &nbsp;Download</a>
-</center>
+test
