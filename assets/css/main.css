@@ -1067,7 +1067,7 @@ pre code {
 
 /* = = = = = = = = = = Post-Card Styles = = = = = = = = = = */
 .post-card-box {
-  margin: 5px 0 5px;
+  margin: 10px 0 10px;
   padding: 0;
 }
 
@@ -1640,7 +1640,7 @@ pre code {
   }
   .post-card-box li {
     width: 100%;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
   }
   .post-card-box li:last-child {
     margin-bottom: 0;
