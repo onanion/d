@@ -2,22 +2,22 @@
 layout: home-page
 title: (MIMK-104) A Story About Irresponsible Seeding Of A Wizard Hired By A Party – live-action Version-sales Of 20,000 Copies!
 ---
-<center>
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_2D9Xrdnrpm-bfz_1NKRH1zSWxNWzFRFqccoA1a0hxqFitfOZ1whxzWcczq9R-C6AqqN8De1U73P73ZMPvdVdG7255snp5uwh0Z_mGY_3FNpJOSbk3iUVfzmBAbwgbtfTuv1kn0g9G5Wfi_U6YwpUZ2GyALRaBgBmCm20nKGEJdQXVXGGwPpYp0rp/s1600/mimk104pl.jpg" alt="(MIMK-104) A Story About Irresponsible Seeding Of A Wizard Hired By A Party – live-action Version-sales Of 20,000">
-</center>
+
 <pre><code>
-<h2>Streaming</h2>
 <table><tbody>
+<tr>
+<th>Streaming</th>
+</tr>
 <tr>
 <td>Server-1</td>
 <td>| <a href="https://filemoon.sx/e/6vy5cvj6p5mr" target="_blank">FileMoon</a></td>
 </tr>
 </tbody></table>
 
-<hr />
-
-<h2>Download</h2>
 <table><tbody>
+<tr>
+<th>Download</th>
+</tr>
 <tr>
 <td>Server-1</td>
 <td>| <a href="https://fakyutube.com/f/7j70mtg1w6w83k2" target="_blank">Fembed</a></td>
