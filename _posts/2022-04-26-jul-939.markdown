@@ -2,22 +2,21 @@
 layout: home-page
 title: (JUL-939) The Married Woman Is Decorated With Fashion Accessories By Her Husband’s Boss. Ai Kano
 ---
-<center>
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxHX57_XUs0a5G9vDCGYrRXJF6gB1ghQlwh5YRB-lnsBHWlHhValj0fyll9n7QXVAaNzhpUYQvnMGjV7-WXgMyJ6MeR47xGPMWrwNrIk4Q7N5GoBKtqYAjNiMRiszLsVhxVeGkqMDUGIKzw1PXhfjUFASSewPvXDovTiWd9wBUByt6KjpVMa5CAOUP/s16000/jul939pl.jpg" alt="(JUL-939) The Married Woman Is Decorated With Fashion Accessories By Her Husband’s Boss. Ai Kano">
-</center>
-<pre><code>
-<h2>Streaming</h2>
+
 <table><tbody>
+<tr>
+<th>Streaming</th>
+</tr>
 <tr>
 <td>Server-1</td>
 <td>| <a href="https://mixdrop.ch/e/84g1173ws981kj" target="_blank">MIXdrop</a></td>
 </tr>
 </tbody></table>
 
-<hr />
-
-<h2>Download</h2>
 <table><tbody>
+<tr>
+<th>Download</th>
+</tr>
 <tr>
 <td>Server-1</td>
 <td>| <a href="https://javpoll.com/f/7m885sgwn4y8qm3" target="_blank">Fembed</a></td>
