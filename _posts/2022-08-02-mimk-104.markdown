@@ -3,7 +3,6 @@ layout: home-page
 title: (MIMK-104) A Story About Irresponsible Seeding Of A Wizard Hired By A Party – live-action Version-sales Of 20,000 Copies!
 ---
 
-<pre><code>
 <table><tbody>
 <tr>
 <th>Streaming</th>
@@ -59,4 +58,3 @@ title: (MIMK-104) A Story About Irresponsible Seeding Of A Wizard Hired By A Par
 <td>| <a href="https://filemoon.sx/d/w2cto9vuy11a" target="_blank">FileMoon</a></td>
 </tr>
 </tbody></table>
-</code></pre>
