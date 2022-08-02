@@ -13,7 +13,7 @@ title: (SSNI-432) (English Subtitle) I’m That Scumbag Who Gives Into Temptatio
 </tr>
 <tr>
 <td>Server-2</td>
-<td>| <a href="ggg" target="_blank">Fembed</a></td>
+<td>| <a href="https://sbfull.com/d/4y6dbdoz97mq.html" target="_blank">StreamSB</a></td>
 </tr>
 <tr>
 <td>Server-4</td>
